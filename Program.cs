@@ -23,6 +23,7 @@ namespace BT3
             Console.WriteLine($"{a} x {b} = {a * b}");
             Console.WriteLine($"{a} : {b} = {a / b}");
             //2.
+            Console.WriteLine("x = y^2 + 2y + 1 ");
             for (int y = -5; y <= 5; y++)
             {
                 int x = y * y + 2 * y + 1;
